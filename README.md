@@ -1,2 +1,2 @@
 # ToDoList-React
-Simple Webb Application
+Simple Web Application that uses react and Material-UI to create a To-Do List Interface
