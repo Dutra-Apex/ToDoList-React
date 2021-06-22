@@ -1,6 +1,6 @@
 import React from 'react';
 import {Card, CardContent, Typography, Container, IconButton } from '@material-ui/core/';
-//import {Check, Delete} from '@material-ui/icons';
+import {Check, Delete} from '@material-ui/icons';
 
 const ToDo = ({title, crossTask, id, isCompleted, deleteTask}) => {
     const delTask = () => deleteTask(id)
